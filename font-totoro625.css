@@ -1,0 +1,18 @@
+/*!
+ *  Font totoro625 3.2.1 by @totoro625 - https://www.totoro.pub/ - @totoro625
+ *  License - https://www.totoro.pub/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+ /* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'totoro625';
+  src: url('totoro625.woff2');
+  src: url('totoro625.woff2') format('woff2'),
+	   url('../fonts/totoro625.woff') format('woff'),
+	   url('totoro625.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/totoro625.ttf') format('truetype'),
+       url('../fonts/totoro625.svg#totoro625') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+
